@@ -1,0 +1,9 @@
+ul.white_text {
+    color:white;
+}
+
+.row.mx-auto.centered{
+    background-color: rgb(254, 231, 202);
+    min-height: 100vh;
+    max-width: 1024px;
+}
