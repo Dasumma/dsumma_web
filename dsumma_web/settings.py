@@ -54,7 +54,7 @@ ROOT_URLCONF = 'dsumma_web.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['mainApp/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
